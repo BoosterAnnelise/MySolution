@@ -10,7 +10,14 @@
   "help": "",
   "url": "",
   "logo": "",
-  "dependencies": [],
+  "dependencies": [
+    {
+        "id": "2fea8600-14ce-4ba8-b29b-15143d6c6f26",
+        "name": "Licensing",
+        "publisher": "Ciellos",
+        "version": "1.0.0.0"
+    }
+  ],
   "screenshots": [],
   "platform": "1.0.0.0",
   "application": "22.0.0.0",
